@@ -1,0 +1,2 @@
+# africahappiness
+This project analyzes the 2020 World Happiness Report to draw conclusions about the general well being of Africa. The report generates a data set consisting of over 150 countries and their happiness scores, freedom to make life choices, social support, healthy life expectancy, regional indicator, perceptions of corruption and generosity. This analysis was done to answer the following data-driven questions: 'Which African country ranked the happiest in 2020?' and 'Which variable predicts or explains a country's happiness score?'
