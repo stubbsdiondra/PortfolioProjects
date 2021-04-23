@@ -37,3 +37,5 @@ Freedom to Make Life Choices:  The national average of responses to the GWP ques
 Perception of Corruption: The national average of the survey responses to two questions in the GWP: “Is corruption widespread throughout the government or not” and “Is corruption widespread within businesses or not?”
 
 Generosity: The residual of regressing national average of response to the GWP question “Have you donated money to a charity in the past month?” on GDP per capita. 
+
+More information can be found @ https://sites.google.com/uri.edu/stubbs-africa-happiness-2020/home
