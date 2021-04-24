@@ -41,7 +41,7 @@ you do with your life?”
 Generosity is the residual of regressing national average of response to the GWP question “Have you donated money to a charity in the past month?” on GDP
 per capita.
 
-• Corruption Perception: The measure is the national average of the survey responses to two questions in the GWP: “Is corruption widespread throughout
+Corruption Perception: The measure is the national average of the survey responses to two questions in the GWP: “Is corruption widespread throughout
 the government or not” and “Is corruption widespread within businesses or not?” The overall perception is just the average of the two 0-or-1 responses. In
 case the perception of government corruption is missing, we use the perception of business corruption as the overall perception. The corruption perception at
 the national level is just the average response of the overall perception at the individual level.
