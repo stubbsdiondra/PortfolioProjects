@@ -1,8 +1,9 @@
 # THE HAPPINESS OF AFRICA
 ## What is the general state of happiness in Africa? 
 
-This project analyzes the 2020 World Happiness Report to draw conclusions about the general well being of Africa. It uses a data set consisting of over 150 countries and their happiness scores, freedom to make life choices, social support, healthy life expectancy, regional indicator, perceptions of corruption and generosity. This analysis was done to answer the following data-driven questions: 'Which African country ranked the happiest in 2020?' and 'Which variable predicts or explains a country's happiness score?'
+This project analyzes the 2020 World Happiness Report to draw conclusions about the general well being of Africa. It uses several CSV files consisting of survey responses formed from a Google Form survey, data from the 2020 World Happiness Report and data on countries only in Africa from the 2020 World Happiness Report. The main data set used includes over 150 countries and their happiness scores, freedom to make life choices, social support, healthy life expectancy, regional indicator, perceptions of corruption and generosity. This analysis was done to answer the following data-driven questions: 'Which African country ranked the happiest in 2020?' and 'Which variable predicts or explains Africa's happiness score?'
 
+This project involves several programs in R and Python. (all created by Diondra Stubbs)
 
 ## Background
 
@@ -250,3 +251,5 @@ To analysis further, a correlation matrix was created in Python between happines
 You can see the additional output from R and Python described in 'Furthering Observations and Findings' analysis in the codes above.
 
 More information can be found here: https://sites.google.com/uri.edu/stubbs-africa-happiness-2020/home?authuser=0e
+
+- Diondra Stubbs
