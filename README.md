@@ -3,7 +3,7 @@
 
 This project analyzes the 2020 World Happiness Report to draw conclusions about the general well being of Africa. It uses several CSV files consisting of survey responses formed from a Google Form survey, data from the 2020 World Happiness Report and data on countries only in Africa from the 2020 World Happiness Report. The main data set used includes over 150 countries and their happiness scores, freedom to make life choices, social support, healthy life expectancy, regional indicator, perceptions of corruption and generosity. This analysis was done to answer the following data-driven questions: 'Which African country ranked the happiest in 2020?' and 'Which variable predicts or explains Africa's happiness score?'
 
-This project involves several programs in R and Python. (all created by Diondra Stubbs)
+This project includes several programs created in R and Python. (all created by Diondra Stubbs)
 
 ![fa44da48935201a94be3c53bf3888997](https://user-images.githubusercontent.com/83089796/116155933-d0ab1b80-a6b8-11eb-9bde-23e7877809fa.jpg)
 
