@@ -99,93 +99,93 @@ Based on the survey responses, respondents believed that Israel was the happiest
 
                 Country Name  Happiness Scores
 
-0                    Algeria              5.01
+                    Algeria              5.01
 
-1                      Benin              5.22
+                      Benin              5.22
 
-2                   Botswana              3.48
+                   Botswana              3.48
 
-3               Burkina Faso              4.77
+               Burkina Faso              4.77
 
-4                    Burundi              3.78
+                   Burundi              3.78
 
-5                   Cameroon              5.08
+                   Cameroon              5.08
 
-6   Central African Republic              3.48
+    Central African Republic              3.48
 
-7                       Chad              4.42
+                       Chad              4.42
 
-8                    Comoros              4.29
+                    Comoros              4.29
 
-9        Congo (Brazzaville)              5.19
+        Congo (Brazzaville)              5.19
 
-10          Congo (Kinshasa)              4.31
+          Congo (Kinshasa)              4.31
 
-11                     Egypt              4.15
+                     Egypt              4.15
 
-12                  Ethiopia              4.19
+                  Ethiopia              4.19
 
-13                     Gabon              4.83
+                     Gabon              4.83
 
-14                    Gambia              4.75
+                    Gambia              4.75
 
-15                     Ghana              5.15
+                     Ghana              5.15
 
-16                    Guinea              4.95
+                    Guinea              4.95
 
-17               Ivory Coast              5.23
+               Ivory Coast              5.23
 
-18                     Kenya              4.58
+                     Kenya              4.58
 
-19                   Lesotho              3.65
+                   Lesotho              3.65
 
-20                   Liberia              4.56
+                   Liberia              4.56
 
-21                     Libya              5.49
+                     Libya              5.49
 
-22                Madagascar              4.17
+                Madagascar              4.17
 
-23                    Malawi              3.54
+                    Malawi              3.54
 
-24                      Mali              4.73
+                      Mali              4.73
 
-25                Mauritania              4.37
+                Mauritania              4.37
 
-26                 Mauritius              6.10
+                 Mauritius              6.10
 
-27                   Morocco              5.09
+                   Morocco              5.09
 
-28                Mozambique              4.62
+                Mozambique              4.62
 
-29                   Namibia              4.57
+                   Namibia              4.57
 
-30                     Niger              4.91
+                     Niger              4.91
 
-31                   Nigeria              4.72
+                   Nigeria              4.72
 
-32                    Rwanda              3.31
+                    Rwanda              3.31
 
-33                   Senegal              4.98
+                   Senegal              4.98
 
-34              Sierra Leone              3.93
+              Sierra Leone              3.93
 
-35              South Africa              4.81
+              South Africa              4.81
 
-36               South Sudan              2.82
+               South Sudan              2.82
 
-37                 Swaziland              4.31
+                 Swaziland              4.31
 
-38                  Tanzania              3.48
+                  Tanzania              3.48
 
-39                      Togo              4.19
+                      Togo              4.19
 
-40                   Tunisia              4.39
+                   Tunisia              4.39
 
-41                    Uganda              4.43
+                    Uganda              4.43
 
-42                    Zambia              3.76
+                    Zambia              3.76
 
-43                  Zimbabwe              3.30
+                  Zimbabwe              3.30
 
 Above is outputted the summary table of African countries and their happiness score. The summary table was used to create a bar visual of each African country and their happiness score.
 
