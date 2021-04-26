@@ -5,6 +5,9 @@ This project analyzes the 2020 World Happiness Report to draw conclusions about 
 
 This project involves several programs in R and Python. (all created by Diondra Stubbs)
 
+![fa44da48935201a94be3c53bf3888997](https://user-images.githubusercontent.com/83089796/116155933-d0ab1b80-a6b8-11eb-9bde-23e7877809fa.jpg)
+
+
 ## Background
 
 Every year, a World Happiness Report is published to state the subjective well-being (SWB) in each country across the globe. The World Happiness Report is a publication of the United Nations Sustainable Development Solutions Network and it is a result of data from the Gallup World Poll. Over 150 countries participate in the study, annually. The World Happiness Report for 2020 ranks cities around the world by their SWB and digs even deeper into how social, urban and natural environments affect our happiness. 
