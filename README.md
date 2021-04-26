@@ -245,18 +245,12 @@ I took extra time to create a scatter visualization in excel to observe this rel
 
 To further the data analysis on this topic, some extra steps were taken to perform statistical analysis. Both Python and R were used to draw final conclusions. First, the original uncleaned data set was used in R programming language to run a multiple linear regression analysis. The results are as follows:
 
-
-
 Together, social support, healthy life expectancy, perceptions of corruption, freedom to make life choices, and generosity explain 15% of the variability in happiness scores for African countries. These results are drawn from running a multiple linear regression on a model that only includes happiness scores, social support, healthy life expectancy, perceptions of corruption, freedom to make life choices, and generosity. The outputted adjusted R-squared value was 0.1512, therefore, giving us a 15% variability.
-
-
 
 I decided to take it a step further and create more models between happiness scores and just one explanatory variable (social support, healthy life expectancy, perceptions of corruption, freedom to make life choices, or generosity). From this, it was found that social support has the highest adjusted R-squared value of 0.1223. This means that 12% of the variation in Happiness scores is being explained by social support. We can assume that social support is the best predictor of the results for Africa’s happiness scores.
 
 
-
-To analysis further, a correlation matrix was created in Python between happiness scores, social support, healthy life expectancy, perceptions of corruption, freedom to make life choices, and generosity. Even though there weren’t any high correlations, the strongest correlation was between social support and happiness scores with a value of 0.38. This means that social support is more conditioning to the happiness score more than any other variable in the data set. Furthermore, happiness in Africa is related to people having relatives and/or friends that they can count on when they need help.
-
+To analyze further, a correlation matrix was created in Python between happiness scores, social support, healthy life expectancy, perceptions of corruption, freedom to make life choices, and generosity. Even though there weren’t any high correlations, the strongest correlation was between social support and happiness scores with a value of 0.38. This means that social support is more conditioning to the happiness score more than any other variable in the data set. Furthermore, happiness in Africa is related to people having relatives and/or friends that they can count on when they need help.
 
 
 You can see the additional output from R and Python described in 'Furthering Observations and Findings' analysis in the codes above.
