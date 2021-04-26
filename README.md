@@ -5,7 +5,7 @@ This project analyzes the 2020 World Happiness Report to draw conclusions about 
 
 This project involves several programs in R and Python. (all created by Diondra Stubbs)
 
-         ![fa44da48935201a94be3c53bf3888997](https://user-images.githubusercontent.com/83089796/116155933-d0ab1b80-a6b8-11eb-9bde-23e7877809fa.jpg)
+![fa44da48935201a94be3c53bf3888997](https://user-images.githubusercontent.com/83089796/116155933-d0ab1b80-a6b8-11eb-9bde-23e7877809fa.jpg)
 
 
 ## Background
