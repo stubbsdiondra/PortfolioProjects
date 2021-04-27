@@ -62,40 +62,40 @@ Source: https://happiness-report.s3.amazonaws.com/2020/WHR20_Ch2_Statistical_App
 
 ## Description of the files and code
 
-2020.csv --> Original cleaned data set from the 2020 World Happiness Report gathered from https://www.kaggle.com/mathurinache/world-happiness-report?select=2020.csv
+- 2020.csv: Original cleaned data set from the 2020 World Happiness Report gathered from https://www.kaggle.com/mathurinache/world-happiness-report?select=2020.csv
 
-africa_happinessreport.csv --> Filtered set from the 2020.csv containing only countries in Africa
+- africa_happinessreport.csv: Filtered set from the 2020.csv containing only countries in Africa
 
-africa_happinessreport.xlsx --> Filtered set from the 2020.csv containing only countries in Africa in the form of an XLSX file
+- africa_happinessreport.xlsx: Filtered set from the 2020.csv containing only countries in Africa in the form of an XLSX file
 
-stubbs_africahappiness.csv --> africa_happinessreport.csv with some columns removed
+- stubbs_africahappiness.csv: africa_happinessreport.csv with some columns removed
 
-survey.csv --> survey responses from a Google Forms survey I created for this topic https://docs.google.com/forms/d/e/1FAIpQLSdu7pYt7SNpZvzXds1kjhzsSuS-X_FyPvHdx2ViR7LyaTISUQ/viewform?usp=sf_link
+- survey.csv: survey responses from a Google Forms survey I created for this topic https://docs.google.com/forms/d/e/1FAIpQLSdu7pYt7SNpZvzXds1kjhzsSuS-X_FyPvHdx2ViR7LyaTISUQ/viewform?usp=sf_link
 
-africa_further_analysis.py --> reading in a CSV into a DataFrame. This program outputs the columns in the filtered set for countries only in Africa. It also creates a correlation matrix and views the regressions of each variable within the data set
+- africa_further_analysis.py: reading in a CSV into a DataFrame. This program outputs the columns in the filtered set for countries only in Africa. It also creates a correlation matrix and views the regressions of each variable within the data set
 
-africaahappiness_regressionanalysis.R --> R codes used to perform multiple linear regression
+- africaahappiness_regressionanalysis.R: R codes used to perform multiple linear regression
 
-stubbs_africahappiness.csv --> 2020.csv with some columns removed
+- stubbs_africahappiness.csv: 2020.csv with some columns removed
 
-stubbs_africahappiness2020.py --> A Python program that approximates the average overall happiness scores of the continent Africa from 2015 to 2020 and the average social support factor in Africa between 2015 and 2020. 
+- stubbs_africahappiness2020.py: A Python program that approximates the average overall happiness scores of the continent Africa from 2015 to 2020 and the average social support factor in Africa between 2015 and 2020. 
 
-stubbs_dataframes.py -->  A modularized Python program that reads the 2020 World Happiness Report data set found online into a Pandas DataFrame. It creates filtered subsets of the Pandas DataFrame containing all records in the original dataset to only focus on particular continents such as Africa, Europe and Asia. This program will output calculations on these continents by performing data statistic calculations such as mean, median, maximum and minimum. This will potentially help answer the question of "Which African country scored the happiest in 2020?"  
+- stubbs_dataframes.py:   A modularized Python program that reads the 2020 World Happiness Report data set found online into a Pandas DataFrame. It creates filtered subsets of the Pandas DataFrame containing all records in the original dataset to only focus on particular continents such as Africa, Europe and Asia. This program will output calculations on these continents by performing data statistic calculations such as mean, median, maximum and minimum. This will potentially help answer the question of "Which African country scored the happiest in 2020?"  
 
-stubbs_dataset_analysis.py --> A modularized Python program that reads all the records from the 2020 World Happiness Report data set found online into a Pandas DataFrame, visually inspects and cleans the DataFrame for common data errors, and creates summary tables and visualizations from the cleaned 
+- stubbs_dataset_analysis.py: A modularized Python program that reads all the records from the 2020 World Happiness Report data set found online into a Pandas DataFrame, visually inspects and cleans the DataFrame for common data errors, and creates summary tables and visualizations from the cleaned 
 DataFrame.
 
-stubbs_functions.py --> A Python program that provides the user with a list of choices pertaining to African happiness data from the World Happiness Report. The list of choices in the program will relate data and simple facts using happiness score data from the World Happiness Report.
+- stubbs_functions.py: A Python program that provides the user with a list of choices pertaining to African happiness data from the World Happiness Report. The list of choices in the program will relate data and simple facts using happiness score data from the World Happiness Report.
 
-stubbs_stats.py -->  A Python program that provides the user with a list of choices pertaining to African happiness data from the World Happiness Report. The list of choices in the program will relate data and simple facts using happiness score data from the World Happiness Report.
+- stubbs_stats.py:  A Python program that provides the user with a list of choices pertaining to African happiness data from the World Happiness Report. The list of choices in the program will relate data and simple facts using happiness score data from the World Happiness Report.
 
-stubbs_survey.py --> A Python program that queries the user to input responses to the survey questions from my Google Form survey. The program records the users responses and uses conditional statements to check and clean their inputs. After cleaning the user input, the program then outputs clean data in a CSV format. 
+- stubbs_survey.py: A Python program that queries the user to input responses to the survey questions from my Google Form survey. The program records the users responses and uses conditional statements to check and clean their inputs. After cleaning the user input, the program then outputs clean data in a CSV format. 
 
-stubbs_survey_analysis.py --> A Python program that reads and cleans the Happiness in Africa Google Forms Survey responses to output data visualizations and statistics with this cleaned data. This modularized program breaks all tasks required for this program into 8 functions to avoid code duplication and to easily reuse code when checking values in the CSV file and computing data statistics (i.e, mean, median andstandard deviation)
+- stubbs_survey_analysis.py: A Python program that reads and cleans the Happiness in Africa Google Forms Survey responses to output data visualizations and statistics with this cleaned data. This modularized program breaks all tasks required for this program into 8 functions to avoid code duplication and to easily reuse code when checking values in the CSV file and computing data statistics (i.e, mean, median andstandard deviation)
 
-stubbs_visuals.py --> A Python program that creates four different types of visualizations based on the data from the 2015, 2016, 2017, 2018, 2019 and 2020 World Happiness Report. Additionally, this program also computes basic calculations such as minimum, maximum and average on this same data.
+- stubbs_visuals.py: A Python program that creates four different types of visualizations based on the data from the 2015, 2016, 2017, 2018, 2019 and 2020 World Happiness Report. Additionally, this program also computes basic calculations such as minimum, maximum and average on this same data.
 
-stubbs_final.py --> A modularized Python program that provides the user with several options to choose from to showcase all of the data performed on the Google Forms survey and 2020 World Happiness Report data set. This program produces relevant data computations, pivot tables and visualizations that are relevant to the 2020 Africa Happiness topic and the posed data-driven questions on this topic. The user is able to choose between EIGHT options viewing the following: an overview of the topic and data set, data-driven questions and predictions, basic data statistics, simple data visualizations, survey analysis, data set analysis and findings and observations to the data-driven questions. The EIGHTH option allows the user to quit the program. 
+- stubbs_final.py --> A modularized Python program that provides the user with several options to choose from to showcase all of the data performed on the Google Forms survey and 2020 World Happiness Report data set. This program produces relevant data computations, pivot tables and visualizations that are relevant to the 2020 Africa Happiness topic and the posed data-driven questions on this topic. The user is able to choose between EIGHT options viewing the following: an overview of the topic and data set, data-driven questions and predictions, basic data statistics, simple data visualizations, survey analysis, data set analysis and findings and observations to the data-driven questions. The EIGHTH option allows the user to quit the program. 
 
 ## Findings & Observations
 
