@@ -257,4 +257,6 @@ You can see the additional output from R and Python described in 'Furthering Obs
 
 More information can be found here: https://sites.google.com/uri.edu/stubbs-africa-happiness-2020/home?authuser=0e
 
-- Diondra Stubbs
+Video explaining this project: https://youtu.be/0IBW1dWA5OU
+
+Diondra Stubbs
