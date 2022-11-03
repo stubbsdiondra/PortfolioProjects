@@ -1,6 +1,6 @@
 # My Portfolio 
 
-This repository is where I showcase all my data analyst projects. These projects demonstrate my skills in SQL, Python, Tableau, R and Excel. Some include the use of Google Sheets and Google Data Studio.
+This repository is where I showcase all my data analyst projects. These projects demonstrate my skills in SQL, Python, Tableau, R and Excel. 
 
 ## About Me
 
