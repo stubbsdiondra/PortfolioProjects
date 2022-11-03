@@ -5,7 +5,7 @@ This project analyzes the 2020 World Happiness Report to draw conclusions about 
 
 This project includes several programs created in R and Python. (all created by Diondra Stubbs)
 
-![Purple and Green Colorful Modern Technology YouTube Thumbnail](https://user-images.githubusercontent.com/83089796/116289555-96955480-a760-11eb-9218-ed9813a40ae8.png)
+![Purple and Green Colorful Modern Technology YouTube Thumbnail]([https://user-images.githubusercontent.com/83089796/116289555-96955480-a760-11eb-9218-ed9813a40ae8.png](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/pfp.jpg))
 
 
 
