@@ -48,5 +48,3 @@ The MSE is 5.18. In other words, the average squared difference between the obse
 The predictors aren't perfect but it is a good fit, given that ~93% of the independent/predictor variables in this model explain all the variation in y and the amount of error in a model isn't extreme. Therefore, the model fits the data well.
 
 This model would be pretty accurate at predicting air quality, allowing people to plan ahead, decreasing the effects on health and the costs associated.
-
-The amount of error 
