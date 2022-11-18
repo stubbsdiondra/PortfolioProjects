@@ -1,4 +1,4 @@
-# reading in the training set (75% of the data)
+# reading in training set (75% of the data)
 
 WHR = read.csv('WHR Training Set.csv', header = TRUE)
 
