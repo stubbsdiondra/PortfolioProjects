@@ -34,3 +34,19 @@ The dataset has columns Date, Time, CO(GT), PT08.S1(CO), NMHC(GT), C6H6(GT), PT0
 ## Why Predict Air Quality
 
 Being able to model, predict, and monitor air quality is becoming more and more relevant, especially in urban areas, due to the critical impact of air pollution on citizens’ health and the environment. Accurate forecasting helps people plan ahead, decreasing the effects on health and the costs associated.
+
+## Findings
+
+The R^2 (coefficient of determination) of the regression model is 0.9299834598762752. or ~93% meaning that ~93% of the data points fall on the regression line and ~93% of the independent/predictor variables in this model explain all the variation in y (Temperature).
+
+The residuals show us that the residuals are spread out around the regression line but pretty close to it.
+
+The coefficients tell us the relationship between the temperature and the other features. When the temperature increases by one C6H6 decreases by 0.41, PT08.S2(NMHC) increases by 0.009, NOx increases by 0.001, PT08.S3(NOx) increases by 0.001, NO2 decreases by 0.003, PT08.S4(NO2) increases by 0.005, RH decreases by 0.349 and AH increases by 14.39.
+
+The MSE is 5.18. In other words, the average squared difference between the observed and predicted values is 5.18.
+
+The predictors aren't perfect but it is a good fit, given that ~93% of the independent/predictor variables in this model explain all the variation in y and the amount of error in a model isn't extreme. Therefore, the model fits the data well.
+
+This model would be pretty accurate at predicting air quality, allowing people to plan ahead, decreasing the effects on health and the costs associated.
+
+The amount of error 
