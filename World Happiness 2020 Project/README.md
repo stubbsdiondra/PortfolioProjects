@@ -10,6 +10,8 @@ EDA Questions
 5. Are the minimum and maximum happiness scores reasonable? Are there any outliers?
 6. What is the mean happiness score?
 
+If you'd like to look at an explainer article instead click [here](https://medium.com/@stubbsdiondra/world-happiness-analysis-eb349e88a686). 
+
 ![This is an image](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/World%20Happiness%202020%20Project/happiness.png)
 
 This project also does a regression analysis on the data to predict the happiness score given the other features in the dataset. The model is tested to see it performance. Some visualizations were also created in [Tableau](https://public.tableau.com/app/profile/diondra.stubbs/viz/WorldHappiness2020Project/Dashboard1?publish=yes) to draw insights.
