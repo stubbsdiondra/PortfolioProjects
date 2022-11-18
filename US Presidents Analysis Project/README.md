@@ -1,6 +1,8 @@
 # Presidents of the US Datasets
 
-This is an exploratory data analysis project using pandas and matplotlib. The python notebook includes markdown explaingin each part of my analysis.
+This is an exploratory data analysis project on US presidents data using pandas and matplotlib. The python notebook includes markdown explaingin each part of my analysis.
+
+![alt text](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/US%20Presidents%20Analysis%20Project/presidents.jpg)
 
 For this analysis, I merged 3 datasets. I gathered two datasets that contain the birthdays and birth states of the US Presidents. More about those can be found [here](https://people.math.sc.edu/Burkardt/datasets/presidents/presidents.html).
 
