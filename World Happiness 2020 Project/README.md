@@ -16,7 +16,7 @@ This project also does a regression analysis on the data to predict the happines
 
 I also added the analysis I did in R which is explained in a [predictive analytics](https://docs.google.com/document/d/1MWESB-buBUXKKyxrG-zl6VXcT7JvmyMm6VWXq4wVDiQ/edit?usp=sharing) case study I did.
 
-This is renovation of college programming project I did in 2021. Original can be found [here](https://github.com/stubbsdiondra/Subjective-Wellbeing-Africa-2020)
+This is renovation of college programming project I did in 2021. Original can be found [here](https://github.com/stubbsdiondra/Subjective-Wellbeing-Africa-2020).
 
 ## About the Dataset
 
