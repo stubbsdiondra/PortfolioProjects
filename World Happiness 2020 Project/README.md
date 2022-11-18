@@ -41,4 +41,4 @@ EDA Questions
 5. Are the minimum and maximum happiness scores reasonable? Are there any outliers?
 6. What is the mean happiness score?
 
-It also does a regression analysis on the data to predict the happiness score given the other features in the dataset. The model is tested to see it performance. Some visualizations were also created in Tableau to draw insights.
+It also does a regression analysis on the data to predict the happiness score given the other features in the dataset. The model is tested to see it performance. Some visualizations were also created in [Tableau](https://public.tableau.com/app/profile/diondra.stubbs/viz/WorldHappiness2020Project/Dashboard1?publish=yes) to draw insights.
