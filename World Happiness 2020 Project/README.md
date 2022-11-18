@@ -2,7 +2,7 @@
 
 This project analyzes the 2020 World Happiness Report to draw conclusions about the general well being of 153 countries in the world.
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/World%20Happiness%202020%20Project/happiness.png)
 
 This is renovation of college programming project I did in 2021. Original can be found [here](https://github.com/stubbsdiondra/Subjective-Wellbeing-Africa-2020)
 
