@@ -1,6 +1,6 @@
 # 2020 World Happiness Project
 
-This project analyzes the 2020 World Happiness Report to draw conclusions about the general well being of 153 countries in the world.
+This project analyzes the 2020 World Happiness Report to draw conclusions about the general well being of 153 countries in the world. The analysis is performed in Python. Each python notebook has markdown explaining each part of my analysis.
 
 ![This is an image](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/World%20Happiness%202020%20Project/happiness.png)
 
