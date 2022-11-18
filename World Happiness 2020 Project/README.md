@@ -20,9 +20,9 @@ This is renovation of college programming project I did in 2021. Original can be
 
 ## About the Dataset
 
-This dataset contains the Happiness Score for over 150 countries for the year of 2020. The data gathered from the Gallup World Poll gives a national average of Happiness scores for countries all over the world. It is an annual landmark survey of the state of global happiness.
+The dataset contains the Happiness Score for over 150 countries for the year of 2020. The data gathered from the Gallup World Poll gives a national average of Happiness scores for countries all over the world. It is an annual landmark survey of the state of global happiness.
 
-This dataset is from the data repository "Kaggle". On Kaggle's dataset page, I searched for Africa Happiness after filtering the search to CSV file type. I wasn't able to find any datasets that could answer my questions that didn't include other countries from different continents. I decided to use a Global Happiness Report to answer the questions I have. The dataset I am using was publish by Micheal Londeen and it was created on March 24, 2020. His main source is the World Happiness Report for 2020.
+The dataset I am using was published by Micheal Londeen. His main source is the World Happiness Report for 2020.
 
 More about this [dataset](https://www.kaggle.com/datasets/mathurinache/world-happiness-report?select=2020.csv).
 
