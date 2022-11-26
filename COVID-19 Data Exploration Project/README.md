@@ -1,12 +1,16 @@
 # COVID-19 Data Exploration Project
 
-This project explores COVID-19 data from January 2020 to November 2022. Basic to advanced SQL queries are executed to answer questions and look at trends over the course of COVID-19. After the data exploration is complete in SQL, the queries are used to create some data visualizations in Tableau. My data exploration in SQL csn be viewed [here](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/COVID-19%20Data%20Exploration%20Project/COVID-19%20Data%20Exploration%20Project.sql) and my dashboard in Tableau [here](https://public.tableau.com/app/profile/diondra.stubbs/viz/COVID-19Project2022/Dashboard1).
+This project explores COVID-19 data from January 2020 to November 2022. Basic to advanced SQL queries are executed to answer questions and look at trends over the course of COVID-19. After the data exploration is complete in SQL, the queries are used to create some data visualizations in Tableau. My data exploration in SQL can be viewed [here](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/COVID-19%20Data%20Exploration%20Project/COVID-19%20Data%20Exploration%20Project.sql) and my dashboard in Tableau [here](https://public.tableau.com/app/profile/diondra.stubbs/viz/COVID-19Project2022/Dashboard1).
 
 ![alt text](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/COVID-19%20Data%20Exploration%20Project/covid.png)
 
 ## The Data
 
 The dataset is from [Our World in Data](https://ourworldindata.org/covid-deaths). It has data from January 2020 to November 2022. I manipulated the data in Excel to contain the columns I wanted to work with.
+
+### Dataset Feature
+continent	location	date	population	total_cases	new_cases	total_deaths	new_deaths	reproduction_rate	icu_patients	hosp_patients	total_tests
+![image](https://user-images.githubusercontent.com/83089796/204070413-69a9dd78-b685-422f-9318-bed16ab5eb24.png)
 
 ## Task
 
