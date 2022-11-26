@@ -418,7 +418,7 @@ WHERE
 	Date = '2022-11-23 00:00:00.000' AND Location = 'United States'
 ORDER BY Date
 
--- ~ 192%
+-- About 192%
 
 
 /* What percentage of the world is vaccinated? */
