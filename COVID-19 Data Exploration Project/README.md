@@ -22,5 +22,16 @@ COVID-19 Vaccinations
 
 The goal of this project is to explore 2020-2022 COVID-19 Data by performing queries in SQL. I choose to look at insights for the United States since I am a US citizen. I also explored data globally and regionally.
 
+
+## Key Findings
+ -  As of November 23 2022, there are 98,503,462 total cases and the death percentage is about 1.095%. This means that 98,503,462 people have been infected by COVID-19 since Jan 2020 and that there is about a 1.1% chance of dying if you contract COVID-19 while living in the US.
+ - One year ago, 48,024,223 people were infected with COVID-19 and there was a ~1.6% chance of dying upon contraction in the US. Two years ago, 12,515,951 people were infected with COVID-19 and there was a ~2% chance of dying upon contraction.
+ -  The highest infection rate is among European countries. The country with the highest infection rate is Cyprus. The US has an infection rate of ~29%, we're 60th.
+ - In 2020, the US infection rate was ~3.7% and in 2021 it was ~14.2%. The infection rate now it almost 8 times as much as it was in 2020 and twice as much as it was in 2021.
+ - The United States, Brazil and India have the highest death counts each year. 
+ - As of right now, North America has the highest death count due to COVID-19
+ - Presently, there are 637,876,021 cases and 6,588,157 deaths worldwide due to COVID-19. The global death percentage is 1.03282719260582%.
+ - 10,703,463,448 people worldwide are vaccinated with at least one vaccine, that's 0.13% of the global population.
+
 ## Sources
 Inspiration from [Alex the Analyst](https://github.com/AlexTheAnalyst/PortfolioProjects)
