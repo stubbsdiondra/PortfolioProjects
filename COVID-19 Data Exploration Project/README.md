@@ -8,9 +8,14 @@ This project explores COVID-19 data from January 2020 to November 2022. Basic to
 
 The dataset is from [Our World in Data](https://ourworldindata.org/covid-deaths). It has data from January 2020 to November 2022. I manipulated the data in Excel to contain the columns I wanted to work with.
 
-### Dataset Feature
-continent	location	date	population	total_cases	new_cases	total_deaths	new_deaths	reproduction_rate	icu_patients	hosp_patients	total_tests
-![image](https://user-images.githubusercontent.com/83089796/204070413-69a9dd78-b685-422f-9318-bed16ab5eb24.png)
+### Dataset Features
+
+COVID-19 Deaths
+![image](https://user-images.githubusercontent.com/83089796/204070449-69db32a5-6768-4086-8e3a-55f9d41f20fd.png)
+
+COVID-19 Vaccinations
+![image](https://user-images.githubusercontent.com/83089796/204070487-66a31de0-e126-4565-9bbf-03ad60735d71.png)
+
 
 ## Task
 
