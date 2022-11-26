@@ -10,12 +10,17 @@ My interest for data analystics began in 2021 when I was leaning exploratory dat
 
 My passions lie in EDA, machine learning and visualizing data to tell a story.
 
+## Socials
+
+[LinkedIn](https://www.linkedin.com/in/diondra-stubbs/)
+
+[Medium](https://medium.com/@stubbsdiondra)
+
+[Portfolio Website](https://stubbsdiondra.github.io/diondrastubbs.github.io/)
+
 ![alt text](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/pfp.jpg)
  
-## 
-[LinkedIn](https://www.linkedin.com/in/diondra-stubbs/)
-[Medium](https://medium.com/@stubbsdiondra)
-[Portfolio Website](https://stubbsdiondra.github.io/diondrastubbs.github.io/)
+
 
 
 
