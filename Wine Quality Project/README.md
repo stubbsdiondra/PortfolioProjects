@@ -28,6 +28,10 @@ The task is to predict the quality of the wine from the measurements. I am going
 
 The dataset has columns for quality, alcohol,	malic acid, ash, alcalinity, magnesium, total_phenols, flavanoids, nonflavanoid_phenols, proanthocyanins, color intensity, hue, OD280_OD315, and proline. The target variable (chosen classifier) will be the quality of the wine.
 
+## Model Comparison
+
+After classifying with a Gaussian Naive Bayes model, it is compared to Logistic Regression, SVM and Decision Tree classifier models. A model comparison analysis is done using accuracy scores, learning curves and confusion matrices to determine which model is recommended for prediction.
+
 ## Clustering 
 
 Clustering is a random algorithm where we aim to learn the labels for each point while characterizing the classes at the same time. It is different from regression and classification in that it is unsupervised learning and there isn't a target variable.  As opposed to regression and classification, we can do clustering on data without splitting the data in test or train splits. Because of this, we can evaluate how good clusters are based on the actual data it learn from rather than test or train data.
