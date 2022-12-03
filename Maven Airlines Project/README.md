@@ -43,6 +43,8 @@ Satisfaction - Overall satisfaction level with the airline (Satisfied/Neutral or
 
 My goal is to recommend a data-driven strategy for increasing Maven Airlines' satisfaction rate. I used Excel functions, formulas, pivot tables and charts to draw insights. In the end I complied it onto a single-report Dashboard (shown below).
 
+![](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/Maven%20Airlines%20Project/Dashboard.png)
+
 ## Recommendations
 
 The recommended strategy for Maven Airlines to increase their satisfaction rate is to focus on improving the services they offer. 
