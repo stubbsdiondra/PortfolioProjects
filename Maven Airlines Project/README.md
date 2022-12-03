@@ -3,9 +3,9 @@
 
 For this project, I assume the role of Senior Data Analyst for Maven Airlines, a US-based airline headquartered in Boston, Massachusetts. The latest passenger survey results just came in and it looks like the satisfaction rate dipped under 50% for the first time ever. The leadership team needs to take action fast, so they've brought me in to analyze the data and find the key areas to focus on for getting back on track.
 
-Tool Used: Excel
+Tool Used: Excel | Skills: Formulas, Pivot Tables, Charts
 
-Skills: Formulas, Pivot Tables, Charts
+![](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/Maven%20Airlines%20Project/64a347808fee-main.jpg)
 
 ## The Dataset
 
