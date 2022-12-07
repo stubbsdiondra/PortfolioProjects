@@ -17,8 +17,6 @@ My passions lie in EDA, machine learning and visualizing data to tell a story.
 [Medium](https://medium.com/@stubbsdiondra)
 
 [Portfolio Website](https://stubbsdiondra.github.io/portfolio/)
-
-![alt text](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/pfp.jpg)
  
 
 
