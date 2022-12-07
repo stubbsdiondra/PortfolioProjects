@@ -7,9 +7,9 @@ My job is to discover what the key drivers are for employees churning and predic
 Tools Used: SQL, Python and Tableau
 Skills Used: JOINS, AGGREGATE FUNCTIONS, CREATING VIEWS, Machine Learning, Data Visualizations, Data Analysis
 
-[View explainer blog](https://medium.com/@stubbsdiondra/ibm-employee-churn-prediction-a116ff4e8274)
+[Article Explaining this Project](https://medium.com/@stubbsdiondra/ibm-employee-churn-prediction-a116ff4e8274)
 
-[View Tableau Dashboard]()
+[Tableau Dashboard]()
 
 ![slide 1](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/IBM%20Employee%20Churn%20Analysis/photos/1.png)
 
