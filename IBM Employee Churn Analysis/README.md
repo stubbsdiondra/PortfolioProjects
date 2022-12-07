@@ -10,7 +10,7 @@ Skills Used: JOINS, AGGREGATE FUNCTIONS, CREATING VIEWS, Machine Learning, Data 
 
 [Article Explaining this Project](https://medium.com/@stubbsdiondra/ibm-employee-churn-prediction-a116ff4e8274)
 
-[Tableau Dashboard]()
+[Tableau Dashboard](https://public.tableau.com/app/profile/diondra.stubbs/viz/IBMEmployeeChurnProject/Dashboard1?publish=yes)
 
 ![slide 1](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/IBM%20Employee%20Churn%20Analysis/photos/1.png)
 
