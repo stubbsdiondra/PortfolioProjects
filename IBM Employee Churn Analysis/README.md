@@ -8,6 +8,9 @@ Tools Used: SQL, Python and Tableau
 Skills Used: JOINS, AGGREGATE FUNCTIONS, CREATING VIEWS, Machine Learning, Data Visualizations, Data Analysis
 
 [View explainer blog](https://medium.com/@stubbsdiondra/ibm-employee-churn-prediction-a116ff4e8274)
+
 [View Tableau Dashboard]()
 
 ![slide 1](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/IBM%20Employee%20Churn%20Analysis/photos/1.png)
+
+[View Slideshow](https://www.canva.com/design/DAFT9KPwKI0/a-CALd4j7ZY3-ATtlsWWTA/view?utm_content=DAFT9KPwKI0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
