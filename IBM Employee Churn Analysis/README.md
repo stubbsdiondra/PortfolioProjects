@@ -10,4 +10,5 @@ My job is to discover what the key drivers are for employees churning and predic
 [View explainer blog](https://medium.com/@stubbsdiondra/ibm-employee-churn-prediction-a116ff4e8274)
 [View Tableau Dashboard]
 
-[embed]https://github.com/stubbsdiondra/PortfolioProjects/blob/main/IBM%20Employee%20Churn%20Analysis/ibm_employee_churn_project.pdf[/embed]
+[embed] https://github.com/stubbsdiondra/PortfolioProjects/blob/main/IBM%20Employee%20Churn%20Analysis/ibm_employee_churn_project.pdf [/embed]
+<embed src="[/blog/images/xxx.pdf](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/IBM%20Employee%20Churn%20Analysis/ibm_employee_churn_project.pdf)" type="application/pdf">
