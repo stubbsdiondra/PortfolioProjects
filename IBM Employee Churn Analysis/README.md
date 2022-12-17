@@ -12,7 +12,7 @@ Skills Used: JOINS, AGGREGATE FUNCTIONS, CREATING VIEWS, Machine Learning, Data 
 
 [Power BI Dashboard](https://drive.google.com/file/d/1aRn_qDrDLEyD2z_LO5tH-Aa83O8GZY3Z/view?usp=sharing)
 
-![slide 1]([https://github.com/stubbsdiondra/PortfolioProjects/blob/main/IBM%20Employee%20Churn%20Analysis/photos/1.png](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/IBM%20Employee%20Churn%20Analysis/ibm_dashboard.png))
+![slide 1](https://github.com/stubbsdiondra/PortfolioProjects/blob/main/IBM%20Employee%20Churn%20Analysis/ibm_dashboard.png)
 
 ## Findings
 - Employees between the ages of 18-23 and 48+ are the least satisfied on the job.
